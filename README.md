@@ -1,4 +1,4 @@
-# MY TERMUX SETUP
+# MY SETUP TERMUX
 
 [Termux](https://www.termux.dev/en/) adalah salah satu aplikasi alternatif bagi kita yang tidak memiliki komputer/laptop namun ingin mempelajari atau mengembangkan skill pemrograman.
 
